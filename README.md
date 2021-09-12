@@ -1,9 +1,9 @@
 # Demo Custom Push Notification using Python
-#### PyFCM supports Android, iOS and Web.
+#### This demo supports ```Android```, ```iOS``` and ```Web```.
 
 On the server-side, you need to install pyfcm using pip.  
 
-```pip install pyfcm  ```
+```pip install pyfcm```
 
 Here is the official documentation for more customization: https://pypi.org/project/pyfcm/  
 
